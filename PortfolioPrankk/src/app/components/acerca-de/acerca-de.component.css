@@ -24,7 +24,17 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 600px;
+    }
+}
+@media (min-width: 1300px){
+    #fotoPerfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px grey;
+        left: 3%;
+        top: 490px;
     }
 }
 
